@@ -1,1 +1,0 @@
-program of linear search
